@@ -2,9 +2,8 @@
 
 ::: columns
 ::: {.column width="55%"}
-The GBIF Data Explorer is a web application that allows users to explore and analyze biodiversity data for Poland from the Global Biodiversity Information Facility (GBIF) database.
 
-The app is built using the Shiny package for R. It includes several visualizations and filters created using the following packages: DT, shiny, shinyWidgets, shinythemes, shinyjs, bslib, bsicons, lubridate, leaflet, highcharter.... [Check out the shiny dashboard](https://hzon6a-deepsha-menghani.shinyapps.io/biodiversity_shiny_dashboard/){target="_blank"}
+
 :::
 
 ::: {.column width="5%"}
@@ -26,9 +25,8 @@ The app is built using the Shiny package for R. It includes several visualizatio
 :::
 
 ::: {.column width="55%"}
-Both R and Python are powerful data science languages and can be used to accomplish end-to-end analytics projects. Reticulate makes it easy to collaborate and talk between the two languages. I think of it as a translator on my fingertips.
 
-My teammate and I participated in Microsoft hackathon where we accessed data from APIs using Python, pulled the output in R using Reticulate and created visualizations to derive business insights using Ggplot2... [Check out how](https://medium.com/data-science-at-microsoft/collaborating-between-python-and-r-using-reticulate-25246b367957){target="_blank"}
+
 :::
 :::
 
@@ -36,9 +34,7 @@ My teammate and I participated in Microsoft hackathon where we accessed data fro
 
 ::: columns
 ::: {.column width="55%"}
-Animation brings in a key component of analysis where the third parameter you want to animate is not directly visible in your plot. Sometimes it can tell a powerful story and sometimes it can just add some flair to an otherwise low-key story.
 
-This blog goes through examples and code to show how easy it is to use gganimate and plotly packages to animate your data visualizations and make them interactive.... [Continue reading](https://deepshamenghani.github.io/gganimate_and_plotly/){target="_blank"}
 :::
 
 ::: {.column width="5%"}

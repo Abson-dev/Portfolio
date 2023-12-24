@@ -1,1 +1,1 @@
-Sitemap: https://9b3b6631-48ea-4dce-80b0-1103050f995d.netlify.app/sitemap.xml
+Sitemap: https://hema.quarto.pub/aboubacar-hema/sitemap.xml

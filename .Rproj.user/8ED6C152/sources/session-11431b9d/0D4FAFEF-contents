@@ -30,6 +30,8 @@ website:
         text: Certificates
       - href: resume.qmd
         text: Resume
+      - href: workshop.qmd
+        text: Workshop
         
     right:
       - icon: linkedin
