@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Aboubacar HEMA",
+    "section": "",
+    "text": "Data scientist with experience in data analytics, data mining, data processing, and storytelling. Skilled in Python, SQL, Tableau, and machine learning algorithms. Successfully completed multiple data science projects, solving real-world data-driven problems. Seeking a challenging data science role to apply and enhance my knowledge and skills."
+  },
+  {
+    "objectID": "certificates.html#gis-for-climate-action",
+    "href": "certificates.html#gis-for-climate-action",
+    "title": "Aboubacar HEMA",
+    "section": "GIS for Climate Action",
+    "text": "GIS for Climate Action"
+  },
+  {
+    "objectID": "certificates.html#satellite-data-for-air-quality-environmental-justice-and-equity-applications",
+    "href": "certificates.html#satellite-data-for-air-quality-environmental-justice-and-equity-applications",
+    "title": "Aboubacar HEMA",
+    "section": "Satellite Data for Air Quality Environmental Justice and Equity Applications",
+    "text": "Satellite Data for Air Quality Environmental Justice and Equity Applications"
+  },
+  {
+    "objectID": "certificates.html#spatial-data-science-the-new-frontier-in-analytics",
+    "href": "certificates.html#spatial-data-science-the-new-frontier-in-analytics",
+    "title": "Aboubacar HEMA",
+    "section": "Spatial Data Science: The New Frontier in Analytics",
+    "text": "Spatial Data Science: The New Frontier in Analytics"
+  },
+  {
+    "objectID": "certificates.html#monitoring-water-quality-of-inland-lakes-using-remote-sensing",
+    "href": "certificates.html#monitoring-water-quality-of-inland-lakes-using-remote-sensing",
+    "title": "Aboubacar HEMA",
+    "section": "Monitoring Water Quality of Inland Lakes using Remote Sensing",
+    "text": "Monitoring Water Quality of Inland Lakes using Remote Sensing"
+  },
+  {
+    "objectID": "certificates.html#manage-successful-field-research",
+    "href": "certificates.html#manage-successful-field-research",
+    "title": "Aboubacar HEMA",
+    "section": "Manage Successful Field Research",
+    "text": "Manage Successful Field Research"
+  },
+  {
+    "objectID": "certificates.html#reproducible-research-fundamentals",
+    "href": "certificates.html#reproducible-research-fundamentals",
+    "title": "Aboubacar HEMA",
+    "section": "Reproducible Research Fundamentals",
+    "text": "Reproducible Research Fundamentals"
+  },
+  {
+    "objectID": "certificates.html#data-science-and-machine-learning-making-data-driven-decisions",
+    "href": "certificates.html#data-science-and-machine-learning-making-data-driven-decisions",
+    "title": "Aboubacar HEMA",
+    "section": "Data Science and Machine Learning: Making Data-Driven Decisions",
+    "text": "Data Science and Machine Learning: Making Data-Driven Decisions"
+  },
+  {
+    "objectID": "certificates.html#mitx-micromasters-program-in-statistics-and-data-science",
+    "href": "certificates.html#mitx-micromasters-program-in-statistics-and-data-science",
+    "title": "Aboubacar HEMA",
+    "section": "MITx MicroMasters program in Statistics and Data Science",
+    "text": "MITx MicroMasters program in Statistics and Data Science\n\nFundamentals of Statistics\n\n\n\n\nProbability - The Science of Uncertainty and Data\n\n\n\n\nMachine Learning with Python: from Linear Models to Deep Learning\n\n\n\n\nData Analysis: Statistical Modeling and Computation in Applications\n\n\n\n\nCapstone Exam in Statistics and Data Science"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Aboubacar HEMA",
+    "section": "",
+    "text": "The GBIF Data Explorer is a web application that allows users to explore and analyze biodiversity data for Poland from the Global Biodiversity Information Facility (GBIF) database.\nThe app is built using the Shiny package for R. It includes several visualizations and filters created using the following packages: DT, shiny, shinyWidgets, shinythemes, shinyjs, bslib, bsicons, lubridate, leaflet, highcharter…. Check out the shiny dashboard"
+  },
+  {
+    "objectID": "projects.html#automatic-review-analyzer",
+    "href": "projects.html#automatic-review-analyzer",
+    "title": "Aboubacar HEMA",
+    "section": "",
+    "text": "The GBIF Data Explorer is a web application that allows users to explore and analyze biodiversity data for Poland from the Global Biodiversity Information Facility (GBIF) database.\nThe app is built using the Shiny package for R. It includes several visualizations and filters created using the following packages: DT, shiny, shinyWidgets, shinythemes, shinyjs, bslib, bsicons, lubridate, leaflet, highcharter…. Check out the shiny dashboard"
+  },
+  {
+    "objectID": "projects.html#digit-recognition",
+    "href": "projects.html#digit-recognition",
+    "title": "Aboubacar HEMA",
+    "section": "Digit recognition",
+    "text": "Digit recognition\n\n\n\n\n\n\nBoth R and Python are powerful data science languages and can be used to accomplish end-to-end analytics projects. Reticulate makes it easy to collaborate and talk between the two languages. I think of it as a translator on my fingertips.\nMy teammate and I participated in Microsoft hackathon where we accessed data from APIs using Python, pulled the output in R using Reticulate and created visualizations to derive business insights using Ggplot2… Check out how"
+  },
+  {
+    "objectID": "projects.html#collaborative-filtering-via-gaussian-mixtures",
+    "href": "projects.html#collaborative-filtering-via-gaussian-mixtures",
+    "title": "Aboubacar HEMA",
+    "section": "Collaborative Filtering via Gaussian Mixtures",
+    "text": "Collaborative Filtering via Gaussian Mixtures\n\n\nAnimation brings in a key component of analysis where the third parameter you want to animate is not directly visible in your plot. Sometimes it can tell a powerful story and sometimes it can just add some flair to an otherwise low-key story.\nThis blog goes through examples and code to show how easy it is to use gganimate and plotly packages to animate your data visualizations and make them interactive…. Continue reading"
+  },
+  {
+    "objectID": "projects.html#effectiveness-of-an-experimental-design",
+    "href": "projects.html#effectiveness-of-an-experimental-design",
+    "title": "Aboubacar HEMA",
+    "section": "Effectiveness of an experimental design",
+    "text": "Effectiveness of an experimental design\n::: columns ::: {.column width=“40%”}\n:::"
+  },
+  {
+    "objectID": "projects.html#genomics-and-high-dimensional-data-analysis",
+    "href": "projects.html#genomics-and-high-dimensional-data-analysis",
+    "title": "Aboubacar HEMA",
+    "section": "Genomics and High Dimensional Data Analysis",
+    "text": "Genomics and High Dimensional Data Analysis"
+  },
+  {
+    "objectID": "projects.html#networks-analysis",
+    "href": "projects.html#networks-analysis",
+    "title": "Aboubacar HEMA",
+    "section": "Networks Analysis",
+    "text": "Networks Analysis"
+  },
+  {
+    "objectID": "projects.html#time-series-analysis",
+    "href": "projects.html#time-series-analysis",
+    "title": "Aboubacar HEMA",
+    "section": "Time Series Analysis",
+    "text": "Time Series Analysis"
+  },
+  {
+    "objectID": "projects.html#environmental-data-and-gaussian-processes",
+    "href": "projects.html#environmental-data-and-gaussian-processes",
+    "title": "Aboubacar HEMA",
+    "section": "Environmental Data and Gaussian Processes",
+    "text": "Environmental Data and Gaussian Processes"
+  },
+  {
+    "objectID": "projects.html#recommendation-systems",
+    "href": "projects.html#recommendation-systems",
+    "title": "Aboubacar HEMA",
+    "section": "Recommendation Systems",
+    "text": "Recommendation Systems"
+  },
+  {
+    "objectID": "projects.html#breast-cancer-prediction-project",
+    "href": "projects.html#breast-cancer-prediction-project",
+    "title": "Aboubacar HEMA",
+    "section": "Breast Cancer Prediction Project",
+    "text": "Breast Cancer Prediction Project"
+  }
+]
