@@ -1,68 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Aboubacar HEMA",
-    "section": "",
-    "text": "Data scientist with experience in data analytics, data mining, data processing, and storytelling. Skilled in Python, SQL, Tableau, and machine learning algorithms. Successfully completed multiple data science projects, solving real-world data-driven problems. Seeking a challenging data science role to apply and enhance my knowledge and skills."
-  },
-  {
-    "objectID": "certificates.html#gis-for-climate-action",
-    "href": "certificates.html#gis-for-climate-action",
-    "title": "Aboubacar HEMA",
-    "section": "GIS for Climate Action",
-    "text": "GIS for Climate Action"
-  },
-  {
-    "objectID": "certificates.html#satellite-data-for-air-quality-environmental-justice-and-equity-applications",
-    "href": "certificates.html#satellite-data-for-air-quality-environmental-justice-and-equity-applications",
-    "title": "Aboubacar HEMA",
-    "section": "Satellite Data for Air Quality Environmental Justice and Equity Applications",
-    "text": "Satellite Data for Air Quality Environmental Justice and Equity Applications"
-  },
-  {
-    "objectID": "certificates.html#spatial-data-science-the-new-frontier-in-analytics",
-    "href": "certificates.html#spatial-data-science-the-new-frontier-in-analytics",
-    "title": "Aboubacar HEMA",
-    "section": "Spatial Data Science: The New Frontier in Analytics",
-    "text": "Spatial Data Science: The New Frontier in Analytics"
-  },
-  {
-    "objectID": "certificates.html#monitoring-water-quality-of-inland-lakes-using-remote-sensing",
-    "href": "certificates.html#monitoring-water-quality-of-inland-lakes-using-remote-sensing",
-    "title": "Aboubacar HEMA",
-    "section": "Monitoring Water Quality of Inland Lakes using Remote Sensing",
-    "text": "Monitoring Water Quality of Inland Lakes using Remote Sensing"
-  },
-  {
-    "objectID": "certificates.html#manage-successful-field-research",
-    "href": "certificates.html#manage-successful-field-research",
-    "title": "Aboubacar HEMA",
-    "section": "Manage Successful Field Research",
-    "text": "Manage Successful Field Research"
-  },
-  {
-    "objectID": "certificates.html#reproducible-research-fundamentals",
-    "href": "certificates.html#reproducible-research-fundamentals",
-    "title": "Aboubacar HEMA",
-    "section": "Reproducible Research Fundamentals",
-    "text": "Reproducible Research Fundamentals"
-  },
-  {
-    "objectID": "certificates.html#data-science-and-machine-learning-making-data-driven-decisions",
-    "href": "certificates.html#data-science-and-machine-learning-making-data-driven-decisions",
-    "title": "Aboubacar HEMA",
-    "section": "Data Science and Machine Learning: Making Data-Driven Decisions",
-    "text": "Data Science and Machine Learning: Making Data-Driven Decisions"
-  },
-  {
-    "objectID": "certificates.html#mitx-micromasters-program-in-statistics-and-data-science",
-    "href": "certificates.html#mitx-micromasters-program-in-statistics-and-data-science",
-    "title": "Aboubacar HEMA",
-    "section": "MITx MicroMasters program in Statistics and Data Science",
-    "text": "MITx MicroMasters program in Statistics and Data Science\n\nFundamentals of Statistics\n\n\n\n\nProbability - The Science of Uncertainty and Data\n\n\n\n\nMachine Learning with Python: from Linear Models to Deep Learning\n\n\n\n\nData Analysis: Statistical Modeling and Computation in Applications\n\n\n\n\nCapstone Exam in Statistics and Data Science"
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Aboubacar HEMA",
@@ -138,5 +75,68 @@
     "title": "Aboubacar HEMA",
     "section": "Breast Cancer Prediction Project",
     "text": "Breast Cancer Prediction Project"
+  },
+  {
+    "objectID": "certificates.html#gis-for-climate-action",
+    "href": "certificates.html#gis-for-climate-action",
+    "title": "Aboubacar HEMA",
+    "section": "GIS for Climate Action",
+    "text": "GIS for Climate Action"
+  },
+  {
+    "objectID": "certificates.html#satellite-data-for-air-quality-environmental-justice-and-equity-applications",
+    "href": "certificates.html#satellite-data-for-air-quality-environmental-justice-and-equity-applications",
+    "title": "Aboubacar HEMA",
+    "section": "Satellite Data for Air Quality Environmental Justice and Equity Applications",
+    "text": "Satellite Data for Air Quality Environmental Justice and Equity Applications"
+  },
+  {
+    "objectID": "certificates.html#spatial-data-science-the-new-frontier-in-analytics",
+    "href": "certificates.html#spatial-data-science-the-new-frontier-in-analytics",
+    "title": "Aboubacar HEMA",
+    "section": "Spatial Data Science: The New Frontier in Analytics",
+    "text": "Spatial Data Science: The New Frontier in Analytics"
+  },
+  {
+    "objectID": "certificates.html#monitoring-water-quality-of-inland-lakes-using-remote-sensing",
+    "href": "certificates.html#monitoring-water-quality-of-inland-lakes-using-remote-sensing",
+    "title": "Aboubacar HEMA",
+    "section": "Monitoring Water Quality of Inland Lakes using Remote Sensing",
+    "text": "Monitoring Water Quality of Inland Lakes using Remote Sensing"
+  },
+  {
+    "objectID": "certificates.html#manage-successful-field-research",
+    "href": "certificates.html#manage-successful-field-research",
+    "title": "Aboubacar HEMA",
+    "section": "Manage Successful Field Research",
+    "text": "Manage Successful Field Research"
+  },
+  {
+    "objectID": "certificates.html#reproducible-research-fundamentals",
+    "href": "certificates.html#reproducible-research-fundamentals",
+    "title": "Aboubacar HEMA",
+    "section": "Reproducible Research Fundamentals",
+    "text": "Reproducible Research Fundamentals"
+  },
+  {
+    "objectID": "certificates.html#data-science-and-machine-learning-making-data-driven-decisions",
+    "href": "certificates.html#data-science-and-machine-learning-making-data-driven-decisions",
+    "title": "Aboubacar HEMA",
+    "section": "Data Science and Machine Learning: Making Data-Driven Decisions",
+    "text": "Data Science and Machine Learning: Making Data-Driven Decisions"
+  },
+  {
+    "objectID": "certificates.html#mitx-micromasters-program-in-statistics-and-data-science",
+    "href": "certificates.html#mitx-micromasters-program-in-statistics-and-data-science",
+    "title": "Aboubacar HEMA",
+    "section": "MITx MicroMasters program in Statistics and Data Science",
+    "text": "MITx MicroMasters program in Statistics and Data Science\n\nFundamentals of Statistics\n\n\n\n\nProbability - The Science of Uncertainty and Data\n\n\n\n\nMachine Learning with Python: from Linear Models to Deep Learning\n\n\n\n\nData Analysis: Statistical Modeling and Computation in Applications\n\n\n\n\nCapstone Exam in Statistics and Data Science"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Aboubacar HEMA",
+    "section": "",
+    "text": "Data scientist with experience in data analytics, data mining, data processing, and storytelling. Skilled in Python, SQL, Tableau, and machine learning algorithms. Successfully completed multiple data science projects, solving real-world data-driven problems. Seeking a challenging data science role to apply and enhance my knowledge and skills."
   }
 ]
