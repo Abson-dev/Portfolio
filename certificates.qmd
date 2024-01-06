@@ -1,3 +1,13 @@
+
+## SAR for Detecting and Monitoring Floods, Sea Ice, and Subsidence from Groundwater Extraction
+
+<iframe 
+  width="1050" 
+  height="500" 
+  src="certificates/ARSET CERTIFICATE - SAR for Detecting and Monitoring Floods_Aboubacar HEMA.pdf">
+</iframe>
+
+
 ## Spectral Indices for Land and Aquatic Applications
 
 <iframe 

@@ -32,6 +32,8 @@ website:
         text: Resume
       - href: workshop.qmd
         text: Workshop
+      - href: teaching.qmd
+        text: Teaching
         
     right:
       - icon: linkedin
