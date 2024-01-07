@@ -1,132 +1,167 @@
-
 ## SAR for Detecting and Monitoring Floods, Sea Ice, and Subsidence from Groundwater Extraction
 
-<iframe 
-  width="1050" 
-  height="500" 
-  src="certificates/ARSET CERTIFICATE - SAR for Detecting and Monitoring Floods_Aboubacar HEMA.pdf">
-</iframe>
+[October 24, 2023 - November 1, 2023](https://appliedsciences.nasa.gov/get-involved/training/english/arset-sar-detecting-and-monitoring-floods-sea-ice-and-subsidence)
 
+-   Generate subsidence maps due to groundwater extraction to inform risk and resource management
+
+-   Detect and monitor sea ice to identify potential risks to shipping and coastal erosion
+
+-   Detect and monitor floods in order to more closely monitor increase/recession of flood waters and better inform disaster response and management
+
+[Notebook](https://hub.ovh2.mybinder.org/user/asfbinderrecipe-_hazards_floods-ka638y4j/doc/tree/SARHazards_Lab_Floods.ipynb)
+
+[This assignment](https://docs.google.com/forms/d/e/1FAIpQLSd8Mw3nf2lDy8EKTFyMzvU0wlhdH72cblWQf2LYnC5KU5Jo_g/viewscore?pli=1&pli=1&viewscore=AE0zAgAaHicAI1LKNbebrg6TNBdsNaabjq1eX71va5HxS7czIGrCo-Q_c01P67eHPQ1JTPs)
+
+<iframe width="1050" height="500" src="certificates/ARSET CERTIFICATE - SAR for Detecting and Monitoring Floods_Aboubacar HEMA.pdf">
+
+</iframe>
 
 ## Spectral Indices for Land and Aquatic Applications
 
-<iframe 
-  width="1050" 
-  height="500" 
-  src="certificates/ARSET CERTIFICATE - Spectral Indices_HEMA_Aboubacar.pdf">
+[October 26, 2023 - November 9, 2023](https://appliedsciences.nasa.gov/get-involved/training/english/arset-spectral-indices-land-and-aquatic-applications)
+
+-   Recognize commonly used spectral indices in land and aquatic environments
+
+-   Distinguish between spectral indices to select those best suited for a given land or aquatic system of interest
+
+-   Compute spectral index calculations over appropriate areas of interest
+
+-   Acquire spectral index products from a variety of sources
+
+[Calculating NDVI in Google Earth Engine](https://code.earthengine.google.com/1c9a5811b4892272233def83baa7f902)
+
+[Index Calculation in GEE](https://code.earthengine.google.com/9a316de7092e6af4a9f2fde33baea8c4) : Normalized Difference Chlorophyll Index (NDCI), Normalized Difference Aquatic Vegetation Index (NDAVI), Floating Algal Index (FAI), Normalized Difference Turbidity Index (NDTI)
+
+[Index Calculation in GEE](https://code.earthengine.google.com/cf527405df03a3cfc4cb2e558a82bf95) : Enhanced Vegetation Index (EVI), Soil-Adjusted Vegetation Index (SAVI), Normalized Burn Ratio (NBR)
+
+[This assignment](https://docs.google.com/forms/d/e/1FAIpQLScgJ9Cr2V66vurDIqX3zs3DJTfbX5C73z1jYk84uBTJcpHnAQ/viewscore?viewscore=AE0zAgBN-DKvy-XhymwCPPO5KJcmyYzXRWX_Jo2jBjTTzzdHHG0cao9yRu7Mv0birBelfLw)
+
+<iframe width="1050" height="500" src="certificates/ARSET CERTIFICATE - Spectral Indices_HEMA_Aboubacar.pdf">
+
 </iframe>
 
 ## GIS for Climate Action
 
-<iframe 
-  width="1050" 
-  height="500" 
-  src="certificates/GIS for Climate Action_Aboubacar HEMA.pdf">
+<iframe width="1050" height="500" src="certificates/GIS for Climate Action_Aboubacar HEMA.pdf">
+
 </iframe>
 
 ## Satellite Data for Air Quality Environmental Justice and Equity Applications
 
+[August 23, 2023 - September 6, 2023](https://appliedsciences.nasa.gov/get-involved/training/english/arset-satellite-data-air-quality-environmental-justice-and-equity)
 
-<iframe 
-  width="1050" 
-  height="500" 
-  src="certificates/ARSET CERTIFICATE - EJ and Equity Applications_Aboubacar HEMA.pdf">
+-   Describe, at a high level, how satellite data have been combined with socioeconomic information to investigate EJ issues such as heat exposure or access to green space.
+
+-   Identify remote sensing data products which are most relevant to assessing EJ related to air quality and pollutant exposure
+
+-   Articulate the benefits and limitations of using remote sensing data to assess EJ concerns related to air quality
+
+-   Import relevant air quality datasets into EJSCREEN, and use EJSCREEN to investigate and compare air quality with other environmental and demographic datasets.
+
+-   Pair appropriate satellite datasets for environmental indicators (air quality) with demographic information using Python
+
+-   Demonstration of satellite data visualization tools using:
+
+    -   [NASA Worldview](https://worldview.earthdata.nasa.gov/)
+
+    -   [NASA Earthdata Search](https://search.earthdata.nasa.gov/search)
+
+    -   [NASA Giovann](https://giovanni.gsfc.nasa.gov/giovanni/)
+
+[Homework: Satellite Data for Air Quality Environmental Justice and Equity Applications](https://docs.google.com/forms/d/e/1FAIpQLSfv4NOEv01krOneGfMLH-DQltw1m7Khl_o1kfXr7iDHMmt50A/viewform)
+
+[Assignment: Satellite Data for Air Quality Environmental Justice and Equity Applications](https://docs.google.com/forms/d/e/1FAIpQLScgJ9Cr2V66vurDIqX3zs3DJTfbX5C73z1jYk84uBTJcpHnAQ/viewscore?viewscore=AE0zAgBN-DKvy-XhymwCPPO5KJcmyYzXRWX_Jo2jBjTTzzdHHG0cao9yRu7Mv0birBelfLw)
+
+**Sensors, tools, & software addressed**: MODIS, VIIRS, GOES, OMI, TROPOMI, TEMPO
+
+<iframe width="1050" height="500" src="certificates/ARSET CERTIFICATE - EJ and Equity Applications_Aboubacar HEMA.pdf">
+
 </iframe>
-
 
 ## Spatial Data Science: The New Frontier in Analytics
 
+<iframe width="1050" height="500" src="certificates/Spatial Data Science_ The New Frontier in Analytics_Certificate_Aboubacar HEMA.pdf">
 
-<iframe 
-  width="1050" 
-  height="500" 
-  src="certificates/Spatial Data Science_ The New Frontier in Analytics_Certificate_Aboubacar HEMA.pdf">
 </iframe>
-
-
 
 ## Monitoring Water Quality of Inland Lakes using Remote Sensing
 
+[July 18, 2023 - July 25, 2023](https://appliedsciences.nasa.gov/get-involved/training/english/arset-monitoring-water-quality-inland-lakes-using-remote-sensing)
 
-<iframe 
-  width="1050" 
-  height="500" 
-  src="certificates/ARSET CERTIFICATE - Water Quality_Aboubacar HEMA.pdf">
+This advanced-level training will focus on using remote sensing observations from Landsat 8 and 9, Sentinel-2, and Sentinel-3 for assessing water quality parameters, including chlorophyll-a concentration, turbidity, and Total Suspended Solids (TSS) in inland lakes. This training will also highlight the importance of in situ measurements of these parameters, coincident with satellite observations, in developing methodologies for operational water quality monitoring. Participants will perform hands-on exercises in Google Earth Engine (GEE) to access satellite data and develop methodologies to assess water quality parameters. In addition, an overview of Cyanobacteria Assessment Network (CyAN), an early warning system to assess algal blooms in freshwater lakes will be provided.
+
+-   Exercise Information:
+
+    -   [Instructions](https://appliedsciences.nasa.gov/sites/default/files/2023-07/WQ_Part1_Exercise.pdf "WQ_Part1_Exercise")
+
+    -   [GEE Code Links](https://appliedsciences.nasa.gov/sites/default/files/2023-07/GEE_Links.pdf "GEE_Links")
+
+    -   [Sample Data](https://appliedsciences.nasa.gov/sites/default/files/2023-07/GLORIA_WesternErie.csv "GLORIA_Sample_Data")
+
+Demonstration and Exercise:
+
+-   Calculate spectral indices as indicators of water quality from Landsat, Sentinel-2, and Sentinel-3 observations
+
+-   Develop statistical coefficients to derive water quality parameters based on remote sensing and in situ data
+
+-   [GEE Code Links](https://code.earthengine.google.com/678296105170823e649c65ff1f51c931)
+
+-   [CyAN Exercise](https://appliedsciences.nasa.gov/sites/default/files/2023-07/CyAN_Exercise.pdf "WQ_Part2_CyAN_Exercise")
+
+[Homework: Monitoring Water Quality of Inland Lakes using Remote Sensing](https://docs.google.com/forms/d/e/1FAIpQLSdwQJW6W_6Mwo9afQ7tcmT1FwyZJCLE0ixFDf2riYQw-__17g/viewform)
+
+[This assignment: Monitoring Water Quality of Inland Lakes using Remote Sensing](https://docs.google.com/forms/d/e/1FAIpQLSdwQJW6W_6Mwo9afQ7tcmT1FwyZJCLE0ixFDf2riYQw-__17g/viewscore?viewscore=AE0zAgBorDpDLkVfn32NtfkDSXFvgZLLs9XeSGQMJLdyRUYvWWj_iiomNLF9WX3lFoqz-Q0)
+
+<iframe width="1050" height="500" src="certificates/ARSET CERTIFICATE - Water Quality_Aboubacar HEMA.pdf">
+
 </iframe>
-
-
 
 ## Manage Successful Field Research
 
+<iframe width="1050" height="500" src="certificates/WB_DIME_MSFR_Aboubacar HEMA.pdf">
 
-<iframe 
-  width="1050" 
-  height="500" 
-  src="certificates/WB_DIME_MSFR_Aboubacar HEMA.pdf">
 </iframe>
 
 ## Reproducible Research Fundamentals
 
+<iframe width="1050" height="500" src="certificates/WB_DIME_RRF_Aboubacar HEMA.pdf">
 
-<iframe 
-  width="1050" 
-  height="500" 
-  src="certificates/WB_DIME_RRF_Aboubacar HEMA.pdf">
 </iframe>
-
 
 ## Data Science and Machine Learning: Making Data-Driven Decisions
 
+<iframe width="1050" height="500" src="certificates/MIT_IDSS_ABOUBACAR HEMA.pdf">
 
-<iframe 
-  width="1050" 
-  height="500" 
-  src="certificates/MIT_IDSS_ABOUBACAR HEMA.pdf">
 </iframe>
-
-
 
 ## MITx MicroMasters program in Statistics and Data Science
 
-
 ### Fundamentals of Statistics
 
-<iframe 
-  width="1050" 
-  height="500" 
-  src="certificates/MITx 18.6501x Certificate _ edX.pdf">
+<iframe width="1050" height="500" src="certificates/MITx 18.6501x Certificate _ edX.pdf">
+
 </iframe>
 
 ### Probability - The Science of Uncertainty and Data
 
+<iframe width="1050" height="500" src="certificates/MITx 6.431x Certificate _ edX.pdf">
 
-<iframe 
-  width="1050" 
-  height="500" 
-  src="certificates/MITx 6.431x Certificate _ edX.pdf">
 </iframe>
 
 ### Machine Learning with Python: from Linear Models to Deep Learning
 
-<iframe 
-  width="1050" 
-  height="500" 
-  src="certificates/MITx 6.86x Certificate _ edX.pdf">
+<iframe width="1050" height="500" src="certificates/MITx 6.86x Certificate _ edX.pdf">
+
 </iframe>
 
 ### Data Analysis: Statistical Modeling and Computation in Applications
 
+<iframe width="1050" height="500" src="certificates/MITx 6.419x Certificate _ edX.pdf">
 
-<iframe 
-  width="1050" 
-  height="500" 
-  src="certificates/MITx 6.419x Certificate _ edX.pdf">
 </iframe>
 
 ### Capstone Exam in Statistics and Data Science
 
-<iframe 
-  width="1050" 
-  height="500" 
-  src="certificates/MITx DS.CFx Certificate _ edX.pdf">
+<iframe width="1050" height="500" src="certificates/MITx DS.CFx Certificate _ edX.pdf">
+
 </iframe>

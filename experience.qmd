@@ -1,32 +1,30 @@
 
+# International Food Policy Research Institute
 
-# Fragility, Conflict, and Migration Initiative
 
+## Fragility, Conflict, and Migration Initiative
 
-# Strengthening National Capacities and Policies for Food Systems Analysis and Transformation in Kenya, Ghana, and Senegal
+## Strengthening National Capacities and Policies for Food Systems Analysis and Transformation in Kenya, Ghana, and Senegal
 
-# Agri-food system and policy landscaping in Niger
+## Agri-food system and policy landscaping in Niger
 
 This proposal is to support the Niger Mission with an agri-food system and policy landscape analysis to better understand primary stakeholders, capacity gaps and the potential for various agri-food sectors to drive economic development in line with the following objectives:
 
-1.  Mapping of Niger\'s agri-food system
+1.  Mapping of Niger's agri-food system
 
-```{=html}
 <!-- -->
-```
+
 2.  Identify the major capacity gaps within the agricultural sector
 
-```{=html}
 <!-- -->
-```
+
 3.  Provide recommendations for areas of potential growth that might serve as a driver for economic development, poverty reduction, and resilience to shocks
 
-```{=html}
 <!-- -->
-```
+
 4.  Provide recommendations for how the capacity in the sector and business enabling environment might be improved
 
-# Projet d'Appui à la transformation des Systèmes agro-alimentaires au Burundi (PATSAB)
+## Projet d'Appui à la transformation des Systèmes agro-alimentaires au Burundi (PATSAB)
 
 -   Objectif général :
 
@@ -41,3 +39,25 @@ Contribuer de manière durable à la réduction de la pauvreté, à travers l'au
 3.  Renforcer les capacités des ménages agricoles à adopter des pratiques alimentaires et nutritionnelles saines
 
 -   Résultats attendus / Effets attendus
+
+# International Organization for Migration (IOM)
+
+
+## Does engaging in peer-to-peer awareness-raising have any effect on returnee migrants' mental health and psychosocial status? A pilot study from West Africa
+
+[more](https://publications.iom.int/books/does-engaging-peer-peer-awarenessraising-have-any-effect-returnee-migrants-mental-health-and)
+
+## Irregular Migration from West Africa: Robust Evaluation of Peer-to-peer Awareness-raising Activities in Four Countries
+
+[more](https://publications.iom.int/books/irregular-migration-west-africa-robust-evaluation-peer-peer-awareness-raising-activities-four)
+
+
+# French agricultural research and cooperation organization (CIRAD)
+
+## Sustainable bioenergy for small agrifood enterprises in rural areas of West Africa - BIOSTAR
+
+[more](https://www.cirad.fr/en/worldwide/cirad-worldwide/projects/biostar-project)
+
+## Bioenergies and employment dynamics in food processing SMEs in West Africa
+
+[more](https://econpapers.repec.org/paper/haljournl/hal-03704685.htm)
