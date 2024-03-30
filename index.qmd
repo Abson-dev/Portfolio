@@ -1,5 +1,5 @@
 ---
-title: "Aboubacar HEMA"
+title: "Aboubacar HEMA, Research Analyst, Development Strategy and Governance Unit, International Food Policy Research Institute"
 image: images/profil_hema.jpeg
 about:
   template: jolla
